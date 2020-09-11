@@ -4,14 +4,13 @@
 
 ## :rocket: Sobre
 
- Projeto desenvolvido para estudar socket.io, possibilida a criação de salas, usuarios, dados armazenados em banco no-sql...
- Readme em construção.... 
+ Projeto desenvolvido para estudar TDD, clean architecture, desing patterns...
 
 ## :computer: Tecnologias
 - NodeJs
 - Express
-- Socket.io
-- Docker
+- Jest
+- Typescript
 - MongoDb
 
 <p align="center">
